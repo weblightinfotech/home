@@ -1050,6 +1050,13 @@ a {
        
 } }
 
+@media (max-width: 767px) {
+    .services-icons li {
+        width: 33%;
+        margin-top: 1em;
+    }
+}
+
     .services-icons li img {
       max-width: 100%;
       height: auto; 
