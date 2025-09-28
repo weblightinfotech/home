@@ -1032,7 +1032,8 @@ a {
     text-align: center; }
     @media (max-width: 51.875em) {
       .services-icons li {
-        width: 33%; }
+        width: 33%;
+		margin-top: 1em;}
         .services-icons li:nth-child(4), .services-icons li:nth-child(5) {
           width: 50%;
           margin-top: 2em; } }
