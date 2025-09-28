@@ -491,7 +491,7 @@ body {
   right: 0;
   height: 40px;
   width: 40px;
-  background: center center no-repeat white;
+  background: center center no-repeat rgb(0 0 0 / 0%);
   background-image: url("../../../images/structure/gotop.webp");
   text-indent: -9999px;
   z-index: 9999;
