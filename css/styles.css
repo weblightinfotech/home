@@ -1039,7 +1039,8 @@ a {
           margin-top: 2em; } }
     @media (max-width: 51.875em) and (max-width: 36.875em) {
       .services-icons li:nth-child(4), .services-icons li:nth-child(5) {
-        margin-top: 1em; } }
+        margin-top: 1em;
+	  width: 33%; } }
 
 @media (max-width: 36.875em) {
     .services-icons li img { 
