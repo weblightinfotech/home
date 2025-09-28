@@ -1018,6 +1018,7 @@ a {
   padding-bottom: 11%; }
   @media (max-width: 36.875em) {
     .page-section.page-section--home .container {
+	padding-top: 25%;
       padding-left: 4%;
         padding-right: 16%; } }
 
